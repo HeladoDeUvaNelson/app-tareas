@@ -42,7 +42,6 @@ switch (accion){
 
         console.log(guardandoLargo.join(''));
         
-
         break;
 
     case undefined:
